@@ -35,10 +35,10 @@ python -m torch.distributed.launch --nproc_per_node=8 --master_port=5003 \
   --work-dir pix2seq-output --eval bbox --launcher pytorch
 ```
 
-| Method  | backbone | Epoch | Batch Size | AP   | AP50  | AP75  |
-| :-----: | :------: | :----:| :---------:| :---:| :---: | :---: |
-| Ours    | R50      | 300   | 32         | 36.4 | 52.8  | 38.5  |
-| Paper   | R50      | 300   | 128        | 43.0 | 61.0  | 45.6  |
+| Method  | backbone | Epoch | Batch Size | AP   | AP50  | AP75  | Weights |
+| :-----: | :------: | :----:| :---------:| :---:| :---: | :---: | :---:   |
+| Ours    | R50      | 300   | 32         | 36.4 | 52.8  | 38.5  | [model](https://github.com/Sharpiless/Pix2seq-mmdetection/releases/download/v1.0/checkpoints.pth) |
+| Paper   | R50      | 300   | 128        | 43.0 | 61.0  | 45.6  | - |
 
 
 ## Visualization
