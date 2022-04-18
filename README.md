@@ -43,17 +43,17 @@ python -m torch.distributed.launch --nproc_per_node=8 --master_port=5003 \
 
 ## Visualization
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/007114.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/007114.jpg)
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/007351.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/007351.jpg)
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/008322.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/008322.jpg)
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/000000289393.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/000000289393.jpg)
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/000000212559.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/000000212559.jpg)
 
-![](https://github.com/Sharpiless/mmdet-Pix2Seq/blob/main/resources/000000255664.jpg)
+![](https://github.com/Sharpiless/Pix2seq-mmdetection/blob/main/resources/000000255664.jpg)
 
 ## TO-DO
 
